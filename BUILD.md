@@ -1,24 +1,13 @@
-# 설치와 확인
+# 전체 게임 파일 열기
 
-이 자료는 Roblox Studio용 RBXM 모델 두 개입니다. 전체 게임 place 파일 또는 독립 실행 빌드는 아닙니다. 저장된 패키지 원본을 복사했으며 이번 작업에서 새로 내보내거나 실행 검증하지 않았습니다.
+1. build/RTA.rbxl을 다운로드합니다.
+2. Roblox Studio의 File → Open from File에서 해당 파일을 엽니다.
+3. Play로 실행합니다. RBXM 삽입이나 설치 명령 실행은 필요하지 않습니다.
 
-1. Roblox Studio에서 별도 빈 테스트 장소를 엽니다.
-2. `build/RTA_PoliceHills_Systems_20261018.rbxm`을 Insert from File로 삽입하고 최상위 폴더를 선택합니다.
-3. Command Bar에서 실행합니다.
+이 파일은 사용자가 2026년 10월 18일 저장한 전체 Roblox 장소입니다. Workspace, Terrain, ServerScriptService, StarterGui와 RTA_IslandMap, PoliceHills 구성요소 표기를 바이너리 내부에서 확인했습니다. 바이너리 전체 청크 파싱과 해시 확인을 수행했으며, 이번 업로드에서 파일을 Studio로 다시 열어 플레이하는 검사는 하지 않았습니다.
 
-```lua
-require(game:GetService('Selection'):Get()[1].InstallSystems).install()
-```
+외부 에셋 권한, 경험 서비스 설정, DataStore 및 상품 ID는 원본 Roblox 경험에 종속될 수 있습니다. 별도 장소에서는 일부 기능에 추가 설정이 필요할 수 있습니다. 독립 실행 EXE가 아니라 Roblox Studio가 필요한 장소 파일입니다.
 
-4. `build/RTA_PoliceHills_Map_20261018.rbxm`을 삽입하고 최상위 폴더를 선택합니다.
-5. Command Bar에서 실행합니다.
+source/는 이 RBXL 파일에서 추출한 코드입니다. index.json에서 원래 스크립트 이름과 종류를 확인할 수 있습니다. 지원자가 직접 작성한 코드라는 의미는 아닙니다.
 
-```lua
-require(game:GetService('Selection'):Get()[1].InstallMap).install()
-```
-
-동일 이름 맵·시스템이 있으면 설치가 중단됩니다. 기존 작업 장소에 중복 설치하지 마십시오. 외부 이미지·사운드·애니메이션의 권한, 경험 서비스 설정 및 상품 ID는 원본 경험에 종속될 수 있습니다. 별도 장소에서는 추가 설정이 필요합니다. 실제 구매를 검증 목적으로 수행하지 마십시오.
-
-PC 조작 참고: W/A/S/D 이동·운전, E 상호작용, P 휴대폰, M 지도, F 낚싯대. 낚시는 캐스팅·챔질·릴 조작 후 FISHING 시설에서 물고기를 판매합니다.
-
-학교가 실행 가능한 전체 빌드를 요구한다면 이 모델 패키지만으로 충족한다고 판단하지 말고, 완전한 place 파일 또는 학교가 허용하는 Roblox 실행 방식과 플레이 영상을 추가해야 합니다.
+기본 조작: W/A/S/D 이동·운전, E 상호작용, P 휴대폰, M 지도, F 낚싯대. 실제 영상·공개 서버·모바일 검증은 별도입니다.

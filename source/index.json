@@ -1,0 +1,3728 @@
+[
+  {
+    "file": "055_0000_RTAVehicles.luau",
+    "instance_name": "RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0001_RTAWeapons.luau",
+    "instance_name": "RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6284
+  },
+  {
+    "file": "055_0002_RTACrime.luau",
+    "instance_name": "RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0003_RTACrimeNPCAnimation.luau",
+    "instance_name": "RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0004_RTAStreetLightBudget.luau",
+    "instance_name": "RTAStreetLightBudget",
+    "class": "LocalScript",
+    "characters": 2400
+  },
+  {
+    "file": "055_0005_RTAContentClient.luau",
+    "instance_name": "RTAContentClient",
+    "class": "LocalScript",
+    "characters": 17861
+  },
+  {
+    "file": "055_0006_RTAContentFX.luau",
+    "instance_name": "RTAContentFX",
+    "class": "LocalScript",
+    "characters": 1099
+  },
+  {
+    "file": "055_0007_RTAFishingAccess.luau",
+    "instance_name": "RTAFishingAccess",
+    "class": "LocalScript",
+    "characters": 2624
+  },
+  {
+    "file": "055_0008_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 27378
+  },
+  {
+    "file": "055_0009_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4485
+  },
+  {
+    "file": "055_0010_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 20474
+  },
+  {
+    "file": "055_0011_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 20526
+  },
+  {
+    "file": "055_0012_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 21980
+  },
+  {
+    "file": "055_0013_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 3882
+  },
+  {
+    "file": "055_0014_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4009
+  },
+  {
+    "file": "055_0015_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0016_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0017_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0018_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0019_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0020_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0021_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9063
+  },
+  {
+    "file": "055_0022_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0023_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0024_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0025_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0026_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9063
+  },
+  {
+    "file": "055_0027_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0028_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0029_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0030_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0031_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0032_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0033_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0034_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0035_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0036_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0037_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0038_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0039_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0040_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0041_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0042_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0043_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0044_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0045_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0046_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0047_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0048_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0049_RTAUIController.luau",
+    "instance_name": "RTAUIController",
+    "class": "LocalScript",
+    "characters": 25844
+  },
+  {
+    "file": "055_0050_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0051_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0052_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0053_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0054_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0055_RTAUIController.luau",
+    "instance_name": "RTAUIController",
+    "class": "LocalScript",
+    "characters": 25844
+  },
+  {
+    "file": "055_0056_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4190
+  },
+  {
+    "file": "055_0057_StarterPlayerScripts_RTACrime.luau",
+    "instance_name": "StarterPlayerScripts_RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0058_StarterPlayerScripts_RTACrimeNPCAnimation.luau",
+    "instance_name": "StarterPlayerScripts_RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0059_StarterPlayerScripts_RTAWeapons.luau",
+    "instance_name": "StarterPlayerScripts_RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0060_StarterPlayerScripts_RTAVehicles.luau",
+    "instance_name": "StarterPlayerScripts_RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0061_Animate.luau",
+    "instance_name": "Animate",
+    "class": "LocalScript",
+    "characters": 28802
+  },
+  {
+    "file": "055_0062_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 25844
+  },
+  {
+    "file": "055_0063_Controller.luau",
+    "instance_name": "Controller",
+    "class": "LocalScript",
+    "characters": 4485
+  },
+  {
+    "file": "055_0064_RTAVehicles.luau",
+    "instance_name": "RTAVehicles",
+    "class": "LocalScript",
+    "characters": 668
+  },
+  {
+    "file": "055_0065_RTAWeapons.luau",
+    "instance_name": "RTAWeapons",
+    "class": "LocalScript",
+    "characters": 6172
+  },
+  {
+    "file": "055_0066_RTACrime.luau",
+    "instance_name": "RTACrime",
+    "class": "LocalScript",
+    "characters": 2279
+  },
+  {
+    "file": "055_0067_RTACrimeNPCAnimation.luau",
+    "instance_name": "RTACrimeNPCAnimation",
+    "class": "LocalScript",
+    "characters": 9087
+  },
+  {
+    "file": "055_0068_RTAStreetLightBudget.luau",
+    "instance_name": "RTAStreetLightBudget",
+    "class": "LocalScript",
+    "characters": 2400
+  },
+  {
+    "file": "055_0069_RTAContentClient.luau",
+    "instance_name": "RTAContentClient",
+    "class": "LocalScript",
+    "characters": 18468
+  },
+  {
+    "file": "055_0070_RTAContentClient.luau",
+    "instance_name": "RTAContentClient",
+    "class": "LocalScript",
+    "characters": 18468
+  },
+  {
+    "file": "055_0071_RTAFishingAccess.luau",
+    "instance_name": "RTAFishingAccess",
+    "class": "LocalScript",
+    "characters": 2762
+  },
+  {
+    "file": "062_0000_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 1052
+  },
+  {
+    "file": "062_0001_Icons.luau",
+    "instance_name": "Icons",
+    "class": "ModuleScript",
+    "characters": 845
+  },
+  {
+    "file": "062_0002_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 736
+  },
+  {
+    "file": "062_0003_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0004_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0005_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0006_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 39451
+  },
+  {
+    "file": "062_0007_AnimationController.luau",
+    "instance_name": "AnimationController",
+    "class": "ModuleScript",
+    "characters": 1409
+  },
+  {
+    "file": "062_0008_AimController.luau",
+    "instance_name": "AimController",
+    "class": "ModuleScript",
+    "characters": 2479
+  },
+  {
+    "file": "062_0009_FishingController.luau",
+    "instance_name": "FishingController",
+    "class": "ModuleScript",
+    "characters": 13271
+  },
+  {
+    "file": "062_0010_SoundController.luau",
+    "instance_name": "SoundController",
+    "class": "ModuleScript",
+    "characters": 3442
+  },
+  {
+    "file": "062_0011_CameraController.luau",
+    "instance_name": "CameraController",
+    "class": "ModuleScript",
+    "characters": 8655
+  },
+  {
+    "file": "062_0012_LineController.luau",
+    "instance_name": "LineController",
+    "class": "ModuleScript",
+    "characters": 4327
+  },
+  {
+    "file": "062_0013_EmbeddedAnimation.luau",
+    "instance_name": "EmbeddedAnimation",
+    "class": "ModuleScript",
+    "characters": 3270
+  },
+  {
+    "file": "062_0014_FishingRodObserver.luau",
+    "instance_name": "FishingRodObserver",
+    "class": "ModuleScript",
+    "characters": 3870
+  },
+  {
+    "file": "062_0015_Fonts.luau",
+    "instance_name": "Fonts",
+    "class": "ModuleScript",
+    "characters": 1826
+  },
+  {
+    "file": "062_0016_ShadowText.luau",
+    "instance_name": "ShadowText",
+    "class": "ModuleScript",
+    "characters": 3835
+  },
+  {
+    "file": "062_0017_TimingBar.luau",
+    "instance_name": "TimingBar",
+    "class": "ModuleScript",
+    "characters": 7825
+  },
+  {
+    "file": "062_0018_ShakeButton.luau",
+    "instance_name": "ShakeButton",
+    "class": "ModuleScript",
+    "characters": 7659
+  },
+  {
+    "file": "062_0019_ReelBar.luau",
+    "instance_name": "ReelBar",
+    "class": "ModuleScript",
+    "characters": 9311
+  },
+  {
+    "file": "062_0020_Callout.luau",
+    "instance_name": "Callout",
+    "class": "ModuleScript",
+    "characters": 3756
+  },
+  {
+    "file": "062_0021_FishingHud.luau",
+    "instance_name": "FishingHud",
+    "class": "ModuleScript",
+    "characters": 4690
+  },
+  {
+    "file": "062_0022_Prompt.luau",
+    "instance_name": "Prompt",
+    "class": "ModuleScript",
+    "characters": 3292
+  },
+  {
+    "file": "062_0023_HudScale.luau",
+    "instance_name": "HudScale",
+    "class": "ModuleScript",
+    "characters": 2380
+  },
+  {
+    "file": "062_0024_VideMount.luau",
+    "instance_name": "VideMount",
+    "class": "ModuleScript",
+    "characters": 2008
+  },
+  {
+    "file": "062_0025_InputDevice.luau",
+    "instance_name": "InputDevice",
+    "class": "ModuleScript",
+    "characters": 2035
+  },
+  {
+    "file": "062_0026_AssetPreload.luau",
+    "instance_name": "AssetPreload",
+    "class": "ModuleScript",
+    "characters": 2414
+  },
+  {
+    "file": "062_0027_Configuration.luau",
+    "instance_name": "Configuration",
+    "class": "ModuleScript",
+    "characters": 13240
+  },
+  {
+    "file": "062_0028_Log.luau",
+    "instance_name": "Log",
+    "class": "ModuleScript",
+    "characters": 1664
+  },
+  {
+    "file": "062_0029_AssetIDs.luau",
+    "instance_name": "AssetIDs",
+    "class": "ModuleScript",
+    "characters": 2546
+  },
+  {
+    "file": "062_0030_Fishing.luau",
+    "instance_name": "Fishing",
+    "class": "ModuleScript",
+    "characters": 9293
+  },
+  {
+    "file": "062_0031_Motion.luau",
+    "instance_name": "Motion",
+    "class": "ModuleScript",
+    "characters": 3409
+  },
+  {
+    "file": "062_0032_Interface.luau",
+    "instance_name": "Interface",
+    "class": "ModuleScript",
+    "characters": 6177
+  },
+  {
+    "file": "062_0033_ForgeVFX.luau",
+    "instance_name": "ForgeVFX",
+    "class": "ModuleScript",
+    "characters": 8460
+  },
+  {
+    "file": "062_0034_emitters.luau",
+    "instance_name": "emitters",
+    "class": "ModuleScript",
+    "characters": 10713
+  },
+  {
+    "file": "062_0035_types.luau",
+    "instance_name": "types",
+    "class": "ModuleScript",
+    "characters": 1090
+  },
+  {
+    "file": "062_0036_beam.luau",
+    "instance_name": "beam",
+    "class": "ModuleScript",
+    "characters": 9050
+  },
+  {
+    "file": "062_0037_bezier.luau",
+    "instance_name": "bezier",
+    "class": "ModuleScript",
+    "characters": 12064
+  },
+  {
+    "file": "062_0038_camera_shake.luau",
+    "instance_name": "camera_shake",
+    "class": "ModuleScript",
+    "characters": 4630
+  },
+  {
+    "file": "062_0039_lightning.luau",
+    "instance_name": "lightning",
+    "class": "ModuleScript",
+    "characters": 37748
+  },
+  {
+    "file": "062_0040_mesh.luau",
+    "instance_name": "mesh",
+    "class": "ModuleScript",
+    "characters": 13691
+  },
+  {
+    "file": "062_0041_particle.luau",
+    "instance_name": "particle",
+    "class": "ModuleScript",
+    "characters": 1647
+  },
+  {
+    "file": "062_0042_randomizer.luau",
+    "instance_name": "randomizer",
+    "class": "ModuleScript",
+    "characters": 2257
+  },
+  {
+    "file": "062_0043_screen.luau",
+    "instance_name": "screen",
+    "class": "ModuleScript",
+    "characters": 1802
+  },
+  {
+    "file": "062_0044_shockwave_debris.luau",
+    "instance_name": "shockwave_debris",
+    "class": "ModuleScript",
+    "characters": 7928
+  },
+  {
+    "file": "062_0045_shockwave_line.luau",
+    "instance_name": "shockwave_line",
+    "class": "ModuleScript",
+    "characters": 10598
+  },
+  {
+    "file": "062_0046_shockwave_ring.luau",
+    "instance_name": "shockwave_ring",
+    "class": "ModuleScript",
+    "characters": 7514
+  },
+  {
+    "file": "062_0047_sound.luau",
+    "instance_name": "sound",
+    "class": "ModuleScript",
+    "characters": 7586
+  },
+  {
+    "file": "062_0048_spin.luau",
+    "instance_name": "spin",
+    "class": "ModuleScript",
+    "characters": 2586
+  },
+  {
+    "file": "062_0049_tweener.luau",
+    "instance_name": "tweener",
+    "class": "ModuleScript",
+    "characters": 2847
+  },
+  {
+    "file": "062_0050_attributes.luau",
+    "instance_name": "attributes",
+    "class": "ModuleScript",
+    "characters": 4316
+  },
+  {
+    "file": "062_0051_lerp.luau",
+    "instance_name": "lerp",
+    "class": "ModuleScript",
+    "characters": 5935
+  },
+  {
+    "file": "062_0052_logger.luau",
+    "instance_name": "logger",
+    "class": "ModuleScript",
+    "characters": 326
+  },
+  {
+    "file": "062_0053_shape.luau",
+    "instance_name": "shape",
+    "class": "ModuleScript",
+    "characters": 5092
+  },
+  {
+    "file": "062_0054_tween.luau",
+    "instance_name": "tween",
+    "class": "ModuleScript",
+    "characters": 3524
+  },
+  {
+    "file": "062_0055_utility.luau",
+    "instance_name": "utility",
+    "class": "ModuleScript",
+    "characters": 16376
+  },
+  {
+    "file": "062_0056_Oklab.luau",
+    "instance_name": "Oklab",
+    "class": "ModuleScript",
+    "characters": 3409
+  },
+  {
+    "file": "062_0057_sRGB.luau",
+    "instance_name": "sRGB",
+    "class": "ModuleScript",
+    "characters": 2327
+  },
+  {
+    "file": "062_0058_bezier.luau",
+    "instance_name": "bezier",
+    "class": "ModuleScript",
+    "characters": 10224
+  },
+  {
+    "file": "062_0059_flipbook.luau",
+    "instance_name": "flipbook",
+    "class": "ModuleScript",
+    "characters": 2092
+  },
+  {
+    "file": "062_0060_Bezier.luau",
+    "instance_name": "Bezier",
+    "class": "ModuleScript",
+    "characters": 5557
+  },
+  {
+    "file": "062_0061_ObjectCache.luau",
+    "instance_name": "ObjectCache",
+    "class": "ModuleScript",
+    "characters": 5222
+  },
+  {
+    "file": "062_0062_caches.luau",
+    "instance_name": "caches",
+    "class": "ModuleScript",
+    "characters": 1417
+  },
+  {
+    "file": "062_0063_effects.luau",
+    "instance_name": "effects",
+    "class": "ModuleScript",
+    "characters": 5624
+  },
+  {
+    "file": "062_0064_enabled_effects.luau",
+    "instance_name": "enabled_effects",
+    "class": "ModuleScript",
+    "characters": 3075
+  },
+  {
+    "file": "062_0065_texture_loader.luau",
+    "instance_name": "texture_loader",
+    "class": "ModuleScript",
+    "characters": 4236
+  },
+  {
+    "file": "062_0066_Promise.luau",
+    "instance_name": "Promise",
+    "class": "ModuleScript",
+    "characters": 61468
+  },
+  {
+    "file": "062_0067_Shake.luau",
+    "instance_name": "Shake",
+    "class": "ModuleScript",
+    "characters": 15519
+  },
+  {
+    "file": "062_0068_CameraMotion.luau",
+    "instance_name": "CameraMotion",
+    "class": "ModuleScript",
+    "characters": 5509
+  },
+  {
+    "file": "062_0069_FishingFeel.luau",
+    "instance_name": "FishingFeel",
+    "class": "ModuleScript",
+    "characters": 5209
+  },
+  {
+    "file": "062_0070_FishPool.luau",
+    "instance_name": "FishPool",
+    "class": "ModuleScript",
+    "characters": 7708
+  },
+  {
+    "file": "062_0071_Network.luau",
+    "instance_name": "Network",
+    "class": "ModuleScript",
+    "characters": 1617
+  },
+  {
+    "file": "062_0072_LineMotion.luau",
+    "instance_name": "LineMotion",
+    "class": "ModuleScript",
+    "characters": 4472
+  },
+  {
+    "file": "062_0073_Observers.luau",
+    "instance_name": "Observers",
+    "class": "ModuleScript",
+    "characters": 111
+  },
+  {
+    "file": "062_0074_PerfectSequencer.luau",
+    "instance_name": "PerfectSequencer",
+    "class": "ModuleScript",
+    "characters": 232
+  },
+  {
+    "file": "062_0075_Scythe.luau",
+    "instance_name": "Scythe",
+    "class": "ModuleScript",
+    "characters": 147
+  },
+  {
+    "file": "062_0076_Signal.luau",
+    "instance_name": "Signal",
+    "class": "ModuleScript",
+    "characters": 191
+  },
+  {
+    "file": "062_0077_SwiftPacket.luau",
+    "instance_name": "SwiftPacket",
+    "class": "ModuleScript",
+    "characters": 429
+  },
+  {
+    "file": "062_0078_Vide.luau",
+    "instance_name": "Vide",
+    "class": "ModuleScript",
+    "characters": 264
+  },
+  {
+    "file": "062_0079_vide.luau",
+    "instance_name": "vide",
+    "class": "ModuleScript",
+    "characters": 211
+  },
+  {
+    "file": "062_0080_src.luau",
+    "instance_name": "src",
+    "class": "ModuleScript",
+    "characters": 284
+  },
+  {
+    "file": "062_0081_action.luau",
+    "instance_name": "action",
+    "class": "ModuleScript",
+    "characters": 466
+  },
+  {
+    "file": "062_0082_apply.luau",
+    "instance_name": "apply",
+    "class": "ModuleScript",
+    "characters": 5518
+  },
+  {
+    "file": "062_0083_batch.luau",
+    "instance_name": "batch",
+    "class": "ModuleScript",
+    "characters": 545
+  },
+  {
+    "file": "062_0084_branch.luau",
+    "instance_name": "branch",
+    "class": "ModuleScript",
+    "characters": 909
+  },
+  {
+    "file": "062_0085_changed.luau",
+    "instance_name": "changed",
+    "class": "ModuleScript",
+    "characters": 467
+  },
+  {
+    "file": "062_0086_cleanup.luau",
+    "instance_name": "cleanup",
+    "class": "ModuleScript",
+    "characters": 1511
+  },
+  {
+    "file": "062_0087_context.luau",
+    "instance_name": "context",
+    "class": "ModuleScript",
+    "characters": 2090
+  },
+  {
+    "file": "062_0088_create.luau",
+    "instance_name": "create",
+    "class": "ModuleScript",
+    "characters": 3642
+  },
+  {
+    "file": "062_0089_defaults.luau",
+    "instance_name": "defaults",
+    "class": "ModuleScript",
+    "characters": 2867
+  },
+  {
+    "file": "062_0090_derive.luau",
+    "instance_name": "derive",
+    "class": "ModuleScript",
+    "characters": 490
+  },
+  {
+    "file": "062_0091_effect.luau",
+    "instance_name": "effect",
+    "class": "ModuleScript",
+    "characters": 435
+  },
+  {
+    "file": "062_0092_flags.luau",
+    "instance_name": "flags",
+    "class": "ModuleScript",
+    "characters": 229
+  },
+  {
+    "file": "062_0093_graph.luau",
+    "instance_name": "graph",
+    "class": "ModuleScript",
+    "characters": 7994
+  },
+  {
+    "file": "062_0094_implicit_effect.luau",
+    "instance_name": "implicit_effect",
+    "class": "ModuleScript",
+    "characters": 3904
+  },
+  {
+    "file": "062_0095_indexes.luau",
+    "instance_name": "indexes",
+    "class": "ModuleScript",
+    "characters": 3638
+  },
+  {
+    "file": "062_0096_lib.luau",
+    "instance_name": "lib",
+    "class": "ModuleScript",
+    "characters": 2989
+  },
+  {
+    "file": "062_0097_mount.luau",
+    "instance_name": "mount",
+    "class": "ModuleScript",
+    "characters": 375
+  },
+  {
+    "file": "062_0098_read.luau",
+    "instance_name": "read",
+    "class": "ModuleScript",
+    "characters": 127
+  },
+  {
+    "file": "062_0099_root.luau",
+    "instance_name": "root",
+    "class": "ModuleScript",
+    "characters": 889
+  },
+  {
+    "file": "062_0100_show.luau",
+    "instance_name": "show",
+    "class": "ModuleScript",
+    "characters": 859
+  },
+  {
+    "file": "062_0101_source.luau",
+    "instance_name": "source",
+    "class": "ModuleScript",
+    "characters": 901
+  },
+  {
+    "file": "062_0102_spring.luau",
+    "instance_name": "spring",
+    "class": "ModuleScript",
+    "characters": 9205
+  },
+  {
+    "file": "062_0103_switch.luau",
+    "instance_name": "switch",
+    "class": "ModuleScript",
+    "characters": 3162
+  },
+  {
+    "file": "062_0104_timeout.luau",
+    "instance_name": "timeout",
+    "class": "ModuleScript",
+    "characters": 645
+  },
+  {
+    "file": "062_0105_untrack.luau",
+    "instance_name": "untrack",
+    "class": "ModuleScript",
+    "characters": 624
+  },
+  {
+    "file": "062_0106_values.luau",
+    "instance_name": "values",
+    "class": "ModuleScript",
+    "characters": 3956
+  },
+  {
+    "file": "062_0107_src.luau",
+    "instance_name": "src",
+    "class": "ModuleScript",
+    "characters": 2565
+  },
+  {
+    "file": "062_0108_Cleanup.luau",
+    "instance_name": "Cleanup",
+    "class": "ModuleScript",
+    "characters": 1311
+  },
+  {
+    "file": "062_0109_Dispatcher.luau",
+    "instance_name": "Dispatcher",
+    "class": "ModuleScript",
+    "characters": 512
+  },
+  {
+    "file": "062_0110_Queue.luau",
+    "instance_name": "Queue",
+    "class": "ModuleScript",
+    "characters": 720
+  },
+  {
+    "file": "062_0111_Signal.luau",
+    "instance_name": "Signal",
+    "class": "ModuleScript",
+    "characters": 2410
+  },
+  {
+    "file": "062_0112_TrackSequencer.luau",
+    "instance_name": "TrackSequencer",
+    "class": "ModuleScript",
+    "characters": 2645
+  },
+  {
+    "file": "062_0113_swiftpacket.luau",
+    "instance_name": "swiftpacket",
+    "class": "ModuleScript",
+    "characters": 722
+  },
+  {
+    "file": "062_0114_src.luau",
+    "instance_name": "src",
+    "class": "ModuleScript",
+    "characters": 5576
+  },
+  {
+    "file": "062_0115_client.luau",
+    "instance_name": "client",
+    "class": "ModuleScript",
+    "characters": 11337
+  },
+  {
+    "file": "062_0116_configuration.luau",
+    "instance_name": "configuration",
+    "class": "ModuleScript",
+    "characters": 1761
+  },
+  {
+    "file": "062_0117_cursor.luau",
+    "instance_name": "cursor",
+    "class": "ModuleScript",
+    "characters": 419
+  },
+  {
+    "file": "062_0118_packet.luau",
+    "instance_name": "packet",
+    "class": "ModuleScript",
+    "characters": 4524
+  },
+  {
+    "file": "062_0119_rate_limit.luau",
+    "instance_name": "rate_limit",
+    "class": "ModuleScript",
+    "characters": 830
+  },
+  {
+    "file": "062_0120_registry.luau",
+    "instance_name": "registry",
+    "class": "ModuleScript",
+    "characters": 942
+  },
+  {
+    "file": "062_0121_schema.luau",
+    "instance_name": "schema",
+    "class": "ModuleScript",
+    "characters": 35808
+  },
+  {
+    "file": "062_0122_server.luau",
+    "instance_name": "server",
+    "class": "ModuleScript",
+    "characters": 17697
+  },
+  {
+    "file": "062_0123_signal.luau",
+    "instance_name": "signal",
+    "class": "ModuleScript",
+    "characters": 2731
+  },
+  {
+    "file": "062_0124_thread_pool.luau",
+    "instance_name": "thread_pool",
+    "class": "ModuleScript",
+    "characters": 785
+  },
+  {
+    "file": "062_0125_wire.luau",
+    "instance_name": "wire",
+    "class": "ModuleScript",
+    "characters": 4667
+  },
+  {
+    "file": "062_0126_lib.luau",
+    "instance_name": "lib",
+    "class": "ModuleScript",
+    "characters": 475
+  },
+  {
+    "file": "062_0127_observeAttribute.luau",
+    "instance_name": "observeAttribute",
+    "class": "ModuleScript",
+    "characters": 2572
+  },
+  {
+    "file": "062_0128_observeCharacter.luau",
+    "instance_name": "observeCharacter",
+    "class": "ModuleScript",
+    "characters": 2564
+  },
+  {
+    "file": "062_0129_observeInstanceHandle.luau",
+    "instance_name": "observeInstanceHandle",
+    "class": "ModuleScript",
+    "characters": 2351
+  },
+  {
+    "file": "062_0130_observeLocalCharacter.luau",
+    "instance_name": "observeLocalCharacter",
+    "class": "ModuleScript",
+    "characters": 1868
+  },
+  {
+    "file": "062_0131_observePlayer.luau",
+    "instance_name": "observePlayer",
+    "class": "ModuleScript",
+    "characters": 2111
+  },
+  {
+    "file": "062_0132_observeProperty.luau",
+    "instance_name": "observeProperty",
+    "class": "ModuleScript",
+    "characters": 1408
+  },
+  {
+    "file": "062_0133_observeTag.luau",
+    "instance_name": "observeTag",
+    "class": "ModuleScript",
+    "characters": 5470
+  },
+  {
+    "file": "062_0134_signal.luau",
+    "instance_name": "signal",
+    "class": "ModuleScript",
+    "characters": 11336
+  },
+  {
+    "file": "062_0135_init.test.luau",
+    "instance_name": "init.test",
+    "class": "ModuleScript",
+    "characters": 4366
+  },
+  {
+    "file": "062_0136_scythe.luau",
+    "instance_name": "scythe",
+    "class": "ModuleScript",
+    "characters": 23639
+  },
+  {
+    "file": "062_0137_README.luau",
+    "instance_name": "README",
+    "class": "ModuleScript",
+    "characters": 4136
+  },
+  {
+    "file": "062_0138_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0139_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 5411
+  },
+  {
+    "file": "062_0140_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3586
+  },
+  {
+    "file": "062_0141_ContentSchema.luau",
+    "instance_name": "ContentSchema",
+    "class": "ModuleScript",
+    "characters": 2343
+  },
+  {
+    "file": "062_0142_Housing.luau",
+    "instance_name": "Housing",
+    "class": "ModuleScript",
+    "characters": 415
+  },
+  {
+    "file": "062_0143_Interiors.luau",
+    "instance_name": "Interiors",
+    "class": "ModuleScript",
+    "characters": 2731
+  },
+  {
+    "file": "062_0144_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 2094
+  },
+  {
+    "file": "062_0145_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 9219
+  },
+  {
+    "file": "062_0146_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 4103
+  },
+  {
+    "file": "062_0147_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4734
+  },
+  {
+    "file": "062_0148_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6416
+  },
+  {
+    "file": "062_0149_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 9919
+  },
+  {
+    "file": "062_0150_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0151_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0152_InteriorAssets.luau",
+    "instance_name": "InteriorAssets",
+    "class": "ModuleScript",
+    "characters": 10217
+  },
+  {
+    "file": "062_0153_HousingAssets.luau",
+    "instance_name": "HousingAssets",
+    "class": "ModuleScript",
+    "characters": 3778
+  },
+  {
+    "file": "062_0154_Monetization.luau",
+    "instance_name": "Monetization",
+    "class": "ModuleScript",
+    "characters": 2706
+  },
+  {
+    "file": "062_0155_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 7888
+  },
+  {
+    "file": "062_0156_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 9455
+  },
+  {
+    "file": "062_0157_World.luau",
+    "instance_name": "World",
+    "class": "ModuleScript",
+    "characters": 7321
+  },
+  {
+    "file": "062_0158_Fishing.luau",
+    "instance_name": "Fishing",
+    "class": "ModuleScript",
+    "characters": 9863
+  },
+  {
+    "file": "062_0159_FishSaleAccess.luau",
+    "instance_name": "FishSaleAccess",
+    "class": "ModuleScript",
+    "characters": 1391
+  },
+  {
+    "file": "062_0160_ToolService.luau",
+    "instance_name": "ToolService",
+    "class": "ModuleScript",
+    "characters": 1840
+  },
+  {
+    "file": "062_0161_CatchService.luau",
+    "instance_name": "CatchService",
+    "class": "ModuleScript",
+    "characters": 4300
+  },
+  {
+    "file": "062_0162_FishingRodObserver.luau",
+    "instance_name": "FishingRodObserver",
+    "class": "ModuleScript",
+    "characters": 4577
+  },
+  {
+    "file": "062_0163_README.luau",
+    "instance_name": "README",
+    "class": "ModuleScript",
+    "characters": 1940
+  },
+  {
+    "file": "062_0164_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 1287
+  },
+  {
+    "file": "062_0165_Icons.luau",
+    "instance_name": "Icons",
+    "class": "ModuleScript",
+    "characters": 2510
+  },
+  {
+    "file": "062_0166_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 1287
+  },
+  {
+    "file": "062_0167_Icons.luau",
+    "instance_name": "Icons",
+    "class": "ModuleScript",
+    "characters": 2510
+  },
+  {
+    "file": "062_0168_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 1278
+  },
+  {
+    "file": "062_0169_Icons.luau",
+    "instance_name": "Icons",
+    "class": "ModuleScript",
+    "characters": 2510
+  },
+  {
+    "file": "062_0170_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 402
+  },
+  {
+    "file": "062_0171_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 2835
+  },
+  {
+    "file": "062_0172_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0173_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0174_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0175_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0176_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0177_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0178_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0179_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0180_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0181_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7774
+  },
+  {
+    "file": "062_0182_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0183_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0184_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9387
+  },
+  {
+    "file": "062_0185_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0186_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0187_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0188_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0189_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0190_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6372
+  },
+  {
+    "file": "062_0191_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7774
+  },
+  {
+    "file": "062_0192_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0193_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0194_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0195_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0196_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0197_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0198_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0199_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 8984
+  },
+  {
+    "file": "062_0200_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 3822
+  },
+  {
+    "file": "062_0201_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0202_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6372
+  },
+  {
+    "file": "062_0203_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7774
+  },
+  {
+    "file": "062_0204_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0205_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 2695
+  },
+  {
+    "file": "062_0206_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0207_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0208_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0209_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0210_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0211_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0212_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0213_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 8984
+  },
+  {
+    "file": "062_0214_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 3822
+  },
+  {
+    "file": "062_0215_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0216_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6372
+  },
+  {
+    "file": "062_0217_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7774
+  },
+  {
+    "file": "062_0218_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0219_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0220_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0221_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0222_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0223_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0224_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0225_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0226_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0227_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 1922
+  },
+  {
+    "file": "062_0228_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 8751
+  },
+  {
+    "file": "062_0229_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 3822
+  },
+  {
+    "file": "062_0230_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0231_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6372
+  },
+  {
+    "file": "062_0232_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7845
+  },
+  {
+    "file": "062_0233_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0234_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0235_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0236_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0237_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0238_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0239_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0240_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0241_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0242_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 1993
+  },
+  {
+    "file": "062_0243_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 8791
+  },
+  {
+    "file": "062_0244_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 3906
+  },
+  {
+    "file": "062_0245_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0246_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6372
+  },
+  {
+    "file": "062_0247_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7887
+  },
+  {
+    "file": "062_0248_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0249_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0250_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0251_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0252_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0253_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0254_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0255_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0256_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0257_Interiors.luau",
+    "instance_name": "Interiors",
+    "class": "ModuleScript",
+    "characters": 2298
+  },
+  {
+    "file": "062_0258_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 1993
+  },
+  {
+    "file": "062_0259_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 8791
+  },
+  {
+    "file": "062_0260_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 3906
+  },
+  {
+    "file": "062_0261_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0262_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6416
+  },
+  {
+    "file": "062_0263_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7887
+  },
+  {
+    "file": "062_0264_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0265_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0266_InteriorAssets.luau",
+    "instance_name": "InteriorAssets",
+    "class": "ModuleScript",
+    "characters": 6101
+  },
+  {
+    "file": "062_0267_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0268_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0269_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0270_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0271_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0272_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0273_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0274_Interiors.luau",
+    "instance_name": "Interiors",
+    "class": "ModuleScript",
+    "characters": 2298
+  },
+  {
+    "file": "062_0275_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 1993
+  },
+  {
+    "file": "062_0276_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 8791
+  },
+  {
+    "file": "062_0277_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 3906
+  },
+  {
+    "file": "062_0278_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0279_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6416
+  },
+  {
+    "file": "062_0280_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7887
+  },
+  {
+    "file": "062_0281_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0282_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0283_InteriorAssets.luau",
+    "instance_name": "InteriorAssets",
+    "class": "ModuleScript",
+    "characters": 6630
+  },
+  {
+    "file": "062_0284_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0285_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0286_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0287_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0288_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0289_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0290_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0291_Interiors.luau",
+    "instance_name": "Interiors",
+    "class": "ModuleScript",
+    "characters": 2318
+  },
+  {
+    "file": "062_0292_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 2094
+  },
+  {
+    "file": "062_0293_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 9219
+  },
+  {
+    "file": "062_0294_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 4103
+  },
+  {
+    "file": "062_0295_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0296_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6416
+  },
+  {
+    "file": "062_0297_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7887
+  },
+  {
+    "file": "062_0298_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0299_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0300_InteriorAssets.luau",
+    "instance_name": "InteriorAssets",
+    "class": "ModuleScript",
+    "characters": 9808
+  },
+  {
+    "file": "062_0301_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0302_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0303_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0304_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0305_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0306_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0307_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0308_Interiors.luau",
+    "instance_name": "Interiors",
+    "class": "ModuleScript",
+    "characters": 2731
+  },
+  {
+    "file": "062_0309_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 2094
+  },
+  {
+    "file": "062_0310_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 9219
+  },
+  {
+    "file": "062_0311_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 4103
+  },
+  {
+    "file": "062_0312_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0313_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6416
+  },
+  {
+    "file": "062_0314_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7887
+  },
+  {
+    "file": "062_0315_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0316_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0317_InteriorAssets.luau",
+    "instance_name": "InteriorAssets",
+    "class": "ModuleScript",
+    "characters": 10217
+  },
+  {
+    "file": "062_0318_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0319_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0320_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0321_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0322_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0323_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0324_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3192
+  },
+  {
+    "file": "062_0325_Interiors.luau",
+    "instance_name": "Interiors",
+    "class": "ModuleScript",
+    "characters": 2731
+  },
+  {
+    "file": "062_0326_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 2094
+  },
+  {
+    "file": "062_0327_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 9219
+  },
+  {
+    "file": "062_0328_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 4103
+  },
+  {
+    "file": "062_0329_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4345
+  },
+  {
+    "file": "062_0330_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6416
+  },
+  {
+    "file": "062_0331_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7887
+  },
+  {
+    "file": "062_0332_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0333_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0334_InteriorAssets.luau",
+    "instance_name": "InteriorAssets",
+    "class": "ModuleScript",
+    "characters": 10217
+  },
+  {
+    "file": "062_0335_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2511
+  },
+  {
+    "file": "062_0336_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0337_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0338_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0339_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 434
+  },
+  {
+    "file": "062_0340_Profiles.luau",
+    "instance_name": "Profiles",
+    "class": "ModuleScript",
+    "characters": 3045
+  },
+  {
+    "file": "062_0341_ProfileSchema.luau",
+    "instance_name": "ProfileSchema",
+    "class": "ModuleScript",
+    "characters": 3408
+  },
+  {
+    "file": "062_0342_Housing.luau",
+    "instance_name": "Housing",
+    "class": "ModuleScript",
+    "characters": 415
+  },
+  {
+    "file": "062_0343_Interiors.luau",
+    "instance_name": "Interiors",
+    "class": "ModuleScript",
+    "characters": 2731
+  },
+  {
+    "file": "062_0344_Jail.luau",
+    "instance_name": "Jail",
+    "class": "ModuleScript",
+    "characters": 2094
+  },
+  {
+    "file": "062_0345_Wanted.luau",
+    "instance_name": "Wanted",
+    "class": "ModuleScript",
+    "characters": 9219
+  },
+  {
+    "file": "062_0346_Robberies.luau",
+    "instance_name": "Robberies",
+    "class": "ModuleScript",
+    "characters": 4103
+  },
+  {
+    "file": "062_0347_Transactions.luau",
+    "instance_name": "Transactions",
+    "class": "ModuleScript",
+    "characters": 4734
+  },
+  {
+    "file": "062_0348_Vehicles.luau",
+    "instance_name": "Vehicles",
+    "class": "ModuleScript",
+    "characters": 6416
+  },
+  {
+    "file": "062_0349_Weapons.luau",
+    "instance_name": "Weapons",
+    "class": "ModuleScript",
+    "characters": 7887
+  },
+  {
+    "file": "062_0350_WeaponAssets.luau",
+    "instance_name": "WeaponAssets",
+    "class": "ModuleScript",
+    "characters": 1985
+  },
+  {
+    "file": "062_0351_CrimeAssets.luau",
+    "instance_name": "CrimeAssets",
+    "class": "ModuleScript",
+    "characters": 3001
+  },
+  {
+    "file": "062_0352_InteriorAssets.luau",
+    "instance_name": "InteriorAssets",
+    "class": "ModuleScript",
+    "characters": 10217
+  },
+  {
+    "file": "062_0353_HousingAssets.luau",
+    "instance_name": "HousingAssets",
+    "class": "ModuleScript",
+    "characters": 3778
+  },
+  {
+    "file": "062_0354_Catalog.luau",
+    "instance_name": "Catalog",
+    "class": "ModuleScript",
+    "characters": 2684
+  },
+  {
+    "file": "062_0355_CrimeEffects.luau",
+    "instance_name": "CrimeEffects",
+    "class": "ModuleScript",
+    "characters": 10315
+  },
+  {
+    "file": "062_0356_WeaponEffects.luau",
+    "instance_name": "WeaponEffects",
+    "class": "ModuleScript",
+    "characters": 9400
+  },
+  {
+    "file": "062_0357_WeaponPose.luau",
+    "instance_name": "WeaponPose",
+    "class": "ModuleScript",
+    "characters": 9096
+  },
+  {
+    "file": "062_0358_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 1278
+  },
+  {
+    "file": "062_0359_Icons.luau",
+    "instance_name": "Icons",
+    "class": "ModuleScript",
+    "characters": 845
+  },
+  {
+    "file": "062_0360_RTA_IslandMapBuilder.luau",
+    "instance_name": "RTA_IslandMapBuilder",
+    "class": "ModuleScript",
+    "characters": 14434
+  },
+  {
+    "file": "062_0361_AnimationController.luau",
+    "instance_name": "AnimationController",
+    "class": "ModuleScript",
+    "characters": 3146
+  },
+  {
+    "file": "062_0362_AimController.luau",
+    "instance_name": "AimController",
+    "class": "ModuleScript",
+    "characters": 2435
+  },
+  {
+    "file": "062_0363_FishingController.luau",
+    "instance_name": "FishingController",
+    "class": "ModuleScript",
+    "characters": 12470
+  },
+  {
+    "file": "062_0364_SoundController.luau",
+    "instance_name": "SoundController",
+    "class": "ModuleScript",
+    "characters": 3442
+  },
+  {
+    "file": "062_0365_CameraController.luau",
+    "instance_name": "CameraController",
+    "class": "ModuleScript",
+    "characters": 8655
+  },
+  {
+    "file": "062_0366_LineController.luau",
+    "instance_name": "LineController",
+    "class": "ModuleScript",
+    "characters": 4327
+  },
+  {
+    "file": "062_0367_FishingRodObserver.luau",
+    "instance_name": "FishingRodObserver",
+    "class": "ModuleScript",
+    "characters": 3870
+  },
+  {
+    "file": "062_0368_Fonts.luau",
+    "instance_name": "Fonts",
+    "class": "ModuleScript",
+    "characters": 1826
+  },
+  {
+    "file": "062_0369_ShadowText.luau",
+    "instance_name": "ShadowText",
+    "class": "ModuleScript",
+    "characters": 3835
+  },
+  {
+    "file": "062_0370_TimingBar.luau",
+    "instance_name": "TimingBar",
+    "class": "ModuleScript",
+    "characters": 7825
+  },
+  {
+    "file": "062_0371_ShakeButton.luau",
+    "instance_name": "ShakeButton",
+    "class": "ModuleScript",
+    "characters": 7661
+  },
+  {
+    "file": "062_0372_ReelBar.luau",
+    "instance_name": "ReelBar",
+    "class": "ModuleScript",
+    "characters": 9321
+  },
+  {
+    "file": "062_0373_Callout.luau",
+    "instance_name": "Callout",
+    "class": "ModuleScript",
+    "characters": 3756
+  },
+  {
+    "file": "062_0374_FishingHud.luau",
+    "instance_name": "FishingHud",
+    "class": "ModuleScript",
+    "characters": 4457
+  },
+  {
+    "file": "062_0375_Prompt.luau",
+    "instance_name": "Prompt",
+    "class": "ModuleScript",
+    "characters": 3302
+  },
+  {
+    "file": "062_0376_HudScale.luau",
+    "instance_name": "HudScale",
+    "class": "ModuleScript",
+    "characters": 2380
+  },
+  {
+    "file": "062_0377_VideMount.luau",
+    "instance_name": "VideMount",
+    "class": "ModuleScript",
+    "characters": 2008
+  },
+  {
+    "file": "062_0378_InputDevice.luau",
+    "instance_name": "InputDevice",
+    "class": "ModuleScript",
+    "characters": 2035
+  },
+  {
+    "file": "062_0379_AssetPreload.luau",
+    "instance_name": "AssetPreload",
+    "class": "ModuleScript",
+    "characters": 2414
+  },
+  {
+    "file": "062_0380_Configuration.luau",
+    "instance_name": "Configuration",
+    "class": "ModuleScript",
+    "characters": 13240
+  },
+  {
+    "file": "062_0381_Log.luau",
+    "instance_name": "Log",
+    "class": "ModuleScript",
+    "characters": 1664
+  },
+  {
+    "file": "062_0382_AssetIDs.luau",
+    "instance_name": "AssetIDs",
+    "class": "ModuleScript",
+    "characters": 2546
+  },
+  {
+    "file": "062_0383_Fishing.luau",
+    "instance_name": "Fishing",
+    "class": "ModuleScript",
+    "characters": 9293
+  },
+  {
+    "file": "062_0384_Motion.luau",
+    "instance_name": "Motion",
+    "class": "ModuleScript",
+    "characters": 3409
+  },
+  {
+    "file": "062_0385_Interface.luau",
+    "instance_name": "Interface",
+    "class": "ModuleScript",
+    "characters": 6177
+  },
+  {
+    "file": "062_0386_ForgeVFX.luau",
+    "instance_name": "ForgeVFX",
+    "class": "ModuleScript",
+    "characters": 8460
+  },
+  {
+    "file": "062_0387_emitters.luau",
+    "instance_name": "emitters",
+    "class": "ModuleScript",
+    "characters": 10713
+  },
+  {
+    "file": "062_0388_types.luau",
+    "instance_name": "types",
+    "class": "ModuleScript",
+    "characters": 1090
+  },
+  {
+    "file": "062_0389_beam.luau",
+    "instance_name": "beam",
+    "class": "ModuleScript",
+    "characters": 9050
+  },
+  {
+    "file": "062_0390_bezier.luau",
+    "instance_name": "bezier",
+    "class": "ModuleScript",
+    "characters": 12064
+  },
+  {
+    "file": "062_0391_camera_shake.luau",
+    "instance_name": "camera_shake",
+    "class": "ModuleScript",
+    "characters": 4630
+  },
+  {
+    "file": "062_0392_lightning.luau",
+    "instance_name": "lightning",
+    "class": "ModuleScript",
+    "characters": 37748
+  },
+  {
+    "file": "062_0393_mesh.luau",
+    "instance_name": "mesh",
+    "class": "ModuleScript",
+    "characters": 13691
+  },
+  {
+    "file": "062_0394_particle.luau",
+    "instance_name": "particle",
+    "class": "ModuleScript",
+    "characters": 1647
+  },
+  {
+    "file": "062_0395_randomizer.luau",
+    "instance_name": "randomizer",
+    "class": "ModuleScript",
+    "characters": 2257
+  },
+  {
+    "file": "062_0396_screen.luau",
+    "instance_name": "screen",
+    "class": "ModuleScript",
+    "characters": 1802
+  },
+  {
+    "file": "062_0397_shockwave_debris.luau",
+    "instance_name": "shockwave_debris",
+    "class": "ModuleScript",
+    "characters": 7928
+  },
+  {
+    "file": "062_0398_shockwave_line.luau",
+    "instance_name": "shockwave_line",
+    "class": "ModuleScript",
+    "characters": 10598
+  },
+  {
+    "file": "062_0399_shockwave_ring.luau",
+    "instance_name": "shockwave_ring",
+    "class": "ModuleScript",
+    "characters": 7514
+  },
+  {
+    "file": "062_0400_sound.luau",
+    "instance_name": "sound",
+    "class": "ModuleScript",
+    "characters": 7586
+  },
+  {
+    "file": "062_0401_spin.luau",
+    "instance_name": "spin",
+    "class": "ModuleScript",
+    "characters": 2586
+  },
+  {
+    "file": "062_0402_tweener.luau",
+    "instance_name": "tweener",
+    "class": "ModuleScript",
+    "characters": 2847
+  },
+  {
+    "file": "062_0403_attributes.luau",
+    "instance_name": "attributes",
+    "class": "ModuleScript",
+    "characters": 4316
+  },
+  {
+    "file": "062_0404_lerp.luau",
+    "instance_name": "lerp",
+    "class": "ModuleScript",
+    "characters": 5935
+  },
+  {
+    "file": "062_0405_logger.luau",
+    "instance_name": "logger",
+    "class": "ModuleScript",
+    "characters": 326
+  },
+  {
+    "file": "062_0406_shape.luau",
+    "instance_name": "shape",
+    "class": "ModuleScript",
+    "characters": 5092
+  },
+  {
+    "file": "062_0407_tween.luau",
+    "instance_name": "tween",
+    "class": "ModuleScript",
+    "characters": 3524
+  },
+  {
+    "file": "062_0408_utility.luau",
+    "instance_name": "utility",
+    "class": "ModuleScript",
+    "characters": 16376
+  },
+  {
+    "file": "062_0409_Oklab.luau",
+    "instance_name": "Oklab",
+    "class": "ModuleScript",
+    "characters": 3409
+  },
+  {
+    "file": "062_0410_sRGB.luau",
+    "instance_name": "sRGB",
+    "class": "ModuleScript",
+    "characters": 2327
+  },
+  {
+    "file": "062_0411_bezier.luau",
+    "instance_name": "bezier",
+    "class": "ModuleScript",
+    "characters": 10224
+  },
+  {
+    "file": "062_0412_flipbook.luau",
+    "instance_name": "flipbook",
+    "class": "ModuleScript",
+    "characters": 2092
+  },
+  {
+    "file": "062_0413_Bezier.luau",
+    "instance_name": "Bezier",
+    "class": "ModuleScript",
+    "characters": 5557
+  },
+  {
+    "file": "062_0414_ObjectCache.luau",
+    "instance_name": "ObjectCache",
+    "class": "ModuleScript",
+    "characters": 5222
+  },
+  {
+    "file": "062_0415_caches.luau",
+    "instance_name": "caches",
+    "class": "ModuleScript",
+    "characters": 1417
+  },
+  {
+    "file": "062_0416_effects.luau",
+    "instance_name": "effects",
+    "class": "ModuleScript",
+    "characters": 5624
+  },
+  {
+    "file": "062_0417_enabled_effects.luau",
+    "instance_name": "enabled_effects",
+    "class": "ModuleScript",
+    "characters": 3075
+  },
+  {
+    "file": "062_0418_texture_loader.luau",
+    "instance_name": "texture_loader",
+    "class": "ModuleScript",
+    "characters": 4236
+  },
+  {
+    "file": "062_0419_Promise.luau",
+    "instance_name": "Promise",
+    "class": "ModuleScript",
+    "characters": 61468
+  },
+  {
+    "file": "062_0420_Shake.luau",
+    "instance_name": "Shake",
+    "class": "ModuleScript",
+    "characters": 15519
+  },
+  {
+    "file": "062_0421_CameraMotion.luau",
+    "instance_name": "CameraMotion",
+    "class": "ModuleScript",
+    "characters": 5509
+  },
+  {
+    "file": "062_0422_FishingFeel.luau",
+    "instance_name": "FishingFeel",
+    "class": "ModuleScript",
+    "characters": 5209
+  },
+  {
+    "file": "062_0423_FishPool.luau",
+    "instance_name": "FishPool",
+    "class": "ModuleScript",
+    "characters": 7708
+  },
+  {
+    "file": "062_0424_Network.luau",
+    "instance_name": "Network",
+    "class": "ModuleScript",
+    "characters": 1813
+  },
+  {
+    "file": "062_0425_LineMotion.luau",
+    "instance_name": "LineMotion",
+    "class": "ModuleScript",
+    "characters": 4472
+  },
+  {
+    "file": "062_0426_Observers.luau",
+    "instance_name": "Observers",
+    "class": "ModuleScript",
+    "characters": 111
+  },
+  {
+    "file": "062_0427_PerfectSequencer.luau",
+    "instance_name": "PerfectSequencer",
+    "class": "ModuleScript",
+    "characters": 232
+  },
+  {
+    "file": "062_0428_Scythe.luau",
+    "instance_name": "Scythe",
+    "class": "ModuleScript",
+    "characters": 147
+  },
+  {
+    "file": "062_0429_Signal.luau",
+    "instance_name": "Signal",
+    "class": "ModuleScript",
+    "characters": 191
+  },
+  {
+    "file": "062_0430_SwiftPacket.luau",
+    "instance_name": "SwiftPacket",
+    "class": "ModuleScript",
+    "characters": 429
+  },
+  {
+    "file": "062_0431_Vide.luau",
+    "instance_name": "Vide",
+    "class": "ModuleScript",
+    "characters": 264
+  },
+  {
+    "file": "062_0432_vide.luau",
+    "instance_name": "vide",
+    "class": "ModuleScript",
+    "characters": 211
+  },
+  {
+    "file": "062_0433_src.luau",
+    "instance_name": "src",
+    "class": "ModuleScript",
+    "characters": 284
+  },
+  {
+    "file": "062_0434_action.luau",
+    "instance_name": "action",
+    "class": "ModuleScript",
+    "characters": 466
+  },
+  {
+    "file": "062_0435_apply.luau",
+    "instance_name": "apply",
+    "class": "ModuleScript",
+    "characters": 5518
+  },
+  {
+    "file": "062_0436_batch.luau",
+    "instance_name": "batch",
+    "class": "ModuleScript",
+    "characters": 545
+  },
+  {
+    "file": "062_0437_branch.luau",
+    "instance_name": "branch",
+    "class": "ModuleScript",
+    "characters": 909
+  },
+  {
+    "file": "062_0438_changed.luau",
+    "instance_name": "changed",
+    "class": "ModuleScript",
+    "characters": 467
+  },
+  {
+    "file": "062_0439_cleanup.luau",
+    "instance_name": "cleanup",
+    "class": "ModuleScript",
+    "characters": 1511
+  },
+  {
+    "file": "062_0440_context.luau",
+    "instance_name": "context",
+    "class": "ModuleScript",
+    "characters": 2090
+  },
+  {
+    "file": "062_0441_create.luau",
+    "instance_name": "create",
+    "class": "ModuleScript",
+    "characters": 3642
+  },
+  {
+    "file": "062_0442_defaults.luau",
+    "instance_name": "defaults",
+    "class": "ModuleScript",
+    "characters": 2867
+  },
+  {
+    "file": "062_0443_derive.luau",
+    "instance_name": "derive",
+    "class": "ModuleScript",
+    "characters": 490
+  },
+  {
+    "file": "062_0444_effect.luau",
+    "instance_name": "effect",
+    "class": "ModuleScript",
+    "characters": 435
+  },
+  {
+    "file": "062_0445_flags.luau",
+    "instance_name": "flags",
+    "class": "ModuleScript",
+    "characters": 229
+  },
+  {
+    "file": "062_0446_graph.luau",
+    "instance_name": "graph",
+    "class": "ModuleScript",
+    "characters": 7994
+  },
+  {
+    "file": "062_0447_implicit_effect.luau",
+    "instance_name": "implicit_effect",
+    "class": "ModuleScript",
+    "characters": 3904
+  },
+  {
+    "file": "062_0448_indexes.luau",
+    "instance_name": "indexes",
+    "class": "ModuleScript",
+    "characters": 3638
+  },
+  {
+    "file": "062_0449_lib.luau",
+    "instance_name": "lib",
+    "class": "ModuleScript",
+    "characters": 2989
+  },
+  {
+    "file": "062_0450_mount.luau",
+    "instance_name": "mount",
+    "class": "ModuleScript",
+    "characters": 375
+  },
+  {
+    "file": "062_0451_read.luau",
+    "instance_name": "read",
+    "class": "ModuleScript",
+    "characters": 127
+  },
+  {
+    "file": "062_0452_root.luau",
+    "instance_name": "root",
+    "class": "ModuleScript",
+    "characters": 889
+  },
+  {
+    "file": "062_0453_show.luau",
+    "instance_name": "show",
+    "class": "ModuleScript",
+    "characters": 859
+  },
+  {
+    "file": "062_0454_source.luau",
+    "instance_name": "source",
+    "class": "ModuleScript",
+    "characters": 901
+  },
+  {
+    "file": "062_0455_spring.luau",
+    "instance_name": "spring",
+    "class": "ModuleScript",
+    "characters": 9205
+  },
+  {
+    "file": "062_0456_switch.luau",
+    "instance_name": "switch",
+    "class": "ModuleScript",
+    "characters": 3162
+  },
+  {
+    "file": "062_0457_timeout.luau",
+    "instance_name": "timeout",
+    "class": "ModuleScript",
+    "characters": 645
+  },
+  {
+    "file": "062_0458_untrack.luau",
+    "instance_name": "untrack",
+    "class": "ModuleScript",
+    "characters": 624
+  },
+  {
+    "file": "062_0459_values.luau",
+    "instance_name": "values",
+    "class": "ModuleScript",
+    "characters": 3956
+  },
+  {
+    "file": "062_0460_src.luau",
+    "instance_name": "src",
+    "class": "ModuleScript",
+    "characters": 2565
+  },
+  {
+    "file": "062_0461_Cleanup.luau",
+    "instance_name": "Cleanup",
+    "class": "ModuleScript",
+    "characters": 1311
+  },
+  {
+    "file": "062_0462_Dispatcher.luau",
+    "instance_name": "Dispatcher",
+    "class": "ModuleScript",
+    "characters": 512
+  },
+  {
+    "file": "062_0463_Queue.luau",
+    "instance_name": "Queue",
+    "class": "ModuleScript",
+    "characters": 720
+  },
+  {
+    "file": "062_0464_Signal.luau",
+    "instance_name": "Signal",
+    "class": "ModuleScript",
+    "characters": 2410
+  },
+  {
+    "file": "062_0465_TrackSequencer.luau",
+    "instance_name": "TrackSequencer",
+    "class": "ModuleScript",
+    "characters": 2645
+  },
+  {
+    "file": "062_0466_swiftpacket.luau",
+    "instance_name": "swiftpacket",
+    "class": "ModuleScript",
+    "characters": 722
+  },
+  {
+    "file": "062_0467_src.luau",
+    "instance_name": "src",
+    "class": "ModuleScript",
+    "characters": 5576
+  },
+  {
+    "file": "062_0468_client.luau",
+    "instance_name": "client",
+    "class": "ModuleScript",
+    "characters": 11337
+  },
+  {
+    "file": "062_0469_configuration.luau",
+    "instance_name": "configuration",
+    "class": "ModuleScript",
+    "characters": 1761
+  },
+  {
+    "file": "062_0470_cursor.luau",
+    "instance_name": "cursor",
+    "class": "ModuleScript",
+    "characters": 419
+  },
+  {
+    "file": "062_0471_packet.luau",
+    "instance_name": "packet",
+    "class": "ModuleScript",
+    "characters": 4524
+  },
+  {
+    "file": "062_0472_rate_limit.luau",
+    "instance_name": "rate_limit",
+    "class": "ModuleScript",
+    "characters": 830
+  },
+  {
+    "file": "062_0473_registry.luau",
+    "instance_name": "registry",
+    "class": "ModuleScript",
+    "characters": 942
+  },
+  {
+    "file": "062_0474_schema.luau",
+    "instance_name": "schema",
+    "class": "ModuleScript",
+    "characters": 35808
+  },
+  {
+    "file": "062_0475_server.luau",
+    "instance_name": "server",
+    "class": "ModuleScript",
+    "characters": 17697
+  },
+  {
+    "file": "062_0476_signal.luau",
+    "instance_name": "signal",
+    "class": "ModuleScript",
+    "characters": 2731
+  },
+  {
+    "file": "062_0477_thread_pool.luau",
+    "instance_name": "thread_pool",
+    "class": "ModuleScript",
+    "characters": 785
+  },
+  {
+    "file": "062_0478_wire.luau",
+    "instance_name": "wire",
+    "class": "ModuleScript",
+    "characters": 4667
+  },
+  {
+    "file": "062_0479_lib.luau",
+    "instance_name": "lib",
+    "class": "ModuleScript",
+    "characters": 475
+  },
+  {
+    "file": "062_0480_observeAttribute.luau",
+    "instance_name": "observeAttribute",
+    "class": "ModuleScript",
+    "characters": 2572
+  },
+  {
+    "file": "062_0481_observeCharacter.luau",
+    "instance_name": "observeCharacter",
+    "class": "ModuleScript",
+    "characters": 2564
+  },
+  {
+    "file": "062_0482_observeInstanceHandle.luau",
+    "instance_name": "observeInstanceHandle",
+    "class": "ModuleScript",
+    "characters": 2351
+  },
+  {
+    "file": "062_0483_observeLocalCharacter.luau",
+    "instance_name": "observeLocalCharacter",
+    "class": "ModuleScript",
+    "characters": 1868
+  },
+  {
+    "file": "062_0484_observePlayer.luau",
+    "instance_name": "observePlayer",
+    "class": "ModuleScript",
+    "characters": 2111
+  },
+  {
+    "file": "062_0485_observeProperty.luau",
+    "instance_name": "observeProperty",
+    "class": "ModuleScript",
+    "characters": 1408
+  },
+  {
+    "file": "062_0486_observeTag.luau",
+    "instance_name": "observeTag",
+    "class": "ModuleScript",
+    "characters": 5470
+  },
+  {
+    "file": "062_0487_signal.luau",
+    "instance_name": "signal",
+    "class": "ModuleScript",
+    "characters": 11336
+  },
+  {
+    "file": "062_0488_init.test.luau",
+    "instance_name": "init.test",
+    "class": "ModuleScript",
+    "characters": 4366
+  },
+  {
+    "file": "062_0489_scythe.luau",
+    "instance_name": "scythe",
+    "class": "ModuleScript",
+    "characters": 23639
+  },
+  {
+    "file": "062_0490_README.luau",
+    "instance_name": "README",
+    "class": "ModuleScript",
+    "characters": 4136
+  },
+  {
+    "file": "062_0491_ToolService.luau",
+    "instance_name": "ToolService",
+    "class": "ModuleScript",
+    "characters": 1840
+  },
+  {
+    "file": "062_0492_CatchService.luau",
+    "instance_name": "CatchService",
+    "class": "ModuleScript",
+    "characters": 4300
+  },
+  {
+    "file": "062_0493_FishingRodObserver.luau",
+    "instance_name": "FishingRodObserver",
+    "class": "ModuleScript",
+    "characters": 4338
+  },
+  {
+    "file": "062_0494_README.luau",
+    "instance_name": "README",
+    "class": "ModuleScript",
+    "characters": 1940
+  },
+  {
+    "file": "062_0495_Bank.luau",
+    "instance_name": "Bank",
+    "class": "ModuleScript",
+    "characters": 7656
+  },
+  {
+    "file": "062_0496_Buildings.luau",
+    "instance_name": "Buildings",
+    "class": "ModuleScript",
+    "characters": 18222
+  },
+  {
+    "file": "062_0497_FishSaleAccess.luau",
+    "instance_name": "FishSaleAccess",
+    "class": "ModuleScript",
+    "characters": 1391
+  },
+  {
+    "file": "062_0498_Architecture.luau",
+    "instance_name": "Architecture",
+    "class": "ModuleScript",
+    "characters": 9918
+  },
+  {
+    "file": "062_0499_Config.luau",
+    "instance_name": "Config",
+    "class": "ModuleScript",
+    "characters": 1052
+  },
+  {
+    "file": "084_0000_Main.luau",
+    "instance_name": "Main",
+    "class": "Script",
+    "characters": 1892
+  },
+  {
+    "file": "084_0001_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11656
+  },
+  {
+    "file": "084_0002_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5567
+  },
+  {
+    "file": "084_0003_RTAHeroInteractions.luau",
+    "instance_name": "RTAHeroInteractions",
+    "class": "Script",
+    "characters": 2804
+  },
+  {
+    "file": "084_0004_RTADowntownBankServices.luau",
+    "instance_name": "RTADowntownBankServices",
+    "class": "Script",
+    "characters": 1021
+  },
+  {
+    "file": "084_0005_Runtime.luau",
+    "instance_name": "Runtime",
+    "class": "Script",
+    "characters": 15599
+  },
+  {
+    "file": "084_0006_FishingBootstrap.luau",
+    "instance_name": "FishingBootstrap",
+    "class": "Script",
+    "characters": 1576
+  },
+  {
+    "file": "084_0007_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 1817
+  },
+  {
+    "file": "084_0008_RTAArchitectureRuntime.luau",
+    "instance_name": "RTAArchitectureRuntime",
+    "class": "Script",
+    "characters": 3089
+  },
+  {
+    "file": "084_0009_ServerBeforeJobNavigation.luau",
+    "instance_name": "ServerBeforeJobNavigation",
+    "class": "Script",
+    "characters": 10686
+  },
+  {
+    "file": "084_0010_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11055
+  },
+  {
+    "file": "084_0011_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11334
+  },
+  {
+    "file": "084_0012_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 4125
+  },
+  {
+    "file": "084_0013_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11334
+  },
+  {
+    "file": "084_0014_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 4435
+  },
+  {
+    "file": "084_0015_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11334
+  },
+  {
+    "file": "084_0016_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 4654
+  },
+  {
+    "file": "084_0017_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11505
+  },
+  {
+    "file": "084_0018_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5226
+  },
+  {
+    "file": "084_0019_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11505
+  },
+  {
+    "file": "084_0020_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5226
+  },
+  {
+    "file": "084_0021_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11505
+  },
+  {
+    "file": "084_0022_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5226
+  },
+  {
+    "file": "084_0023_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11547
+  },
+  {
+    "file": "084_0024_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5226
+  },
+  {
+    "file": "084_0025_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11547
+  },
+  {
+    "file": "084_0026_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5283
+  },
+  {
+    "file": "084_0027_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11547
+  },
+  {
+    "file": "084_0028_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5283
+  },
+  {
+    "file": "084_0029_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11547
+  },
+  {
+    "file": "084_0030_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5283
+  },
+  {
+    "file": "084_0031_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11547
+  },
+  {
+    "file": "084_0032_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5283
+  },
+  {
+    "file": "084_0033_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11547
+  },
+  {
+    "file": "084_0034_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5283
+  },
+  {
+    "file": "084_0035_OriginalLightsHandler.luau",
+    "instance_name": "OriginalLightsHandler",
+    "class": "Script",
+    "characters": 2790
+  },
+  {
+    "file": "084_0036_RTAHeroInteractions.luau",
+    "instance_name": "RTAHeroInteractions",
+    "class": "Script",
+    "characters": 2804
+  },
+  {
+    "file": "084_0037_RTADowntownBankServices.luau",
+    "instance_name": "RTADowntownBankServices",
+    "class": "Script",
+    "characters": 1021
+  },
+  {
+    "file": "084_0038_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 11547
+  },
+  {
+    "file": "084_0039_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 5567
+  },
+  {
+    "file": "084_0040_Main.luau",
+    "instance_name": "Main",
+    "class": "Script",
+    "characters": 1892
+  },
+  {
+    "file": "084_0041_Server.luau",
+    "instance_name": "Server",
+    "class": "Script",
+    "characters": 1817
+  },
+  {
+    "file": "084_0042_Runtime.luau",
+    "instance_name": "Runtime",
+    "class": "Script",
+    "characters": 15609
+  },
+  {
+    "file": "084_0043_Runtime.luau",
+    "instance_name": "Runtime",
+    "class": "Script",
+    "characters": 15524
+  },
+  {
+    "file": "084_0044_FishingBootstrap.luau",
+    "instance_name": "FishingBootstrap",
+    "class": "Script",
+    "characters": 2149
+  },
+  {
+    "file": "084_0045_Script.luau",
+    "instance_name": "Script",
+    "class": "Script",
+    "characters": 3235
+  },
+  {
+    "file": "084_0046_Script.luau",
+    "instance_name": "Script",
+    "class": "Script",
+    "characters": 3235
+  },
+  {
+    "file": "084_0047_Script.luau",
+    "instance_name": "Script",
+    "class": "Script",
+    "characters": 3235
+  },
+  {
+    "file": "084_0048_Script.luau",
+    "instance_name": "Script",
+    "class": "Script",
+    "characters": 3235
+  }
+]

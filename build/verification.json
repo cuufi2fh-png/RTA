@@ -1,0 +1,25 @@
+{
+  "file": "RTA.rbxl",
+  "bytes": 15712830,
+  "sha256": "8b5e241ee24f8d3cab5e66b7ba0ae34252332c8d1fa973bcc0871b2a6f6a8fc7",
+  "chunks": 3145,
+  "flags": {
+    "github_token": 0,
+    "api_secret": 0,
+    "private_key": 0,
+    "assigned_secret": 0,
+    "discord_webhook": 0
+  },
+  "markers": {
+    "Workspace": true,
+    "Terrain": true,
+    "ServerScriptService": true,
+    "StarterGui": true,
+    "RTA_IslandMap": true,
+    "PoliceHills": true,
+    "RTAContent": true,
+    "POLICE_01": true,
+    "POLICE_02": true
+  },
+  "validation": "Binary chunks parsed and markers checked; not a fresh Studio play test."
+}
